@@ -16,8 +16,6 @@ Python - For data analysis and machine learning.
 
 Excel - For data cleaning, transformation, and visualization.
 
-SQL - For data management and retrieval.
-
 
 
 ## Conclusion:
